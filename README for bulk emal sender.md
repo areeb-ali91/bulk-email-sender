@@ -21,7 +21,9 @@ Built with Python and Tkinter. Works with Gmail, Outlook, or any SMTP provider.
 
 ## Screenshots
 
-> *(Add screenshots here after running the app)*
+> <img width="700" height="789" alt="image" src="https://github.com/user-attachments/assets/208bdb19-0438-4a78-abd7-b75dcc322be5" />
+<img width="697" height="779" alt="image" src="https://github.com/user-attachments/assets/51e5b870-0338-436e-bfca-3101efe49c15" />
+
 
 ---
 
